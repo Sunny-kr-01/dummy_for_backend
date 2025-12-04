@@ -1,0 +1,7 @@
+npm init -y   --> intalls package.json..
+npm install package_name  -->dependencies you may want in your project
+
+
+Dev dependency
+here used nodemon..
+to install --> npm i package_name (-D/--save-dev)->defines it as web dependency

@@ -5,6 +5,13 @@ npm install package_name  -->dependencies you may want in your project
 Dev dependency
 here used nodemon..
 to install --> npm i package_name (-D/--save-dev)->defines it as web dependency
- 
+nodemon is used as web dependency as it is used to continously monitor the application
+
+
 Working of script
-contains 
+contains commands that are executed using npm
+some commands directly get used like npm strat
+some need run like npm run dev
+
+TO globally install package
+npm install -g package_name
